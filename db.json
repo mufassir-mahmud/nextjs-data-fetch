@@ -1,0 +1,55 @@
+
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wire Headphones",
+      "category": "Electronics",
+      "price": 2499,
+      "description": "High-quality wireless headphones with noise cancellation and deep bass.",
+      "image": "https://placehold.co/400x300?text=Headphones",
+      "stock": 35,
+      "rating": 4.5
+    },
+    {
+      "id": "2",
+      "name": "Digital Watch",
+      "category": "Electronics",
+      "price": 3999,
+      "description": "A smart watch with heart rate monitoring, fitness tracking, and notifications.",
+      "image": "https://placehold.co/400x300?text=Smart+Watch",
+      "stock": 18,
+      "rating": 4.3
+    },
+    {
+      "id": "3",
+      "name": "Running Shoes",
+      "category": "Fashion",
+      "price": 3200,
+      "description": "Comfortable lightweight running shoes suitable for everyday exercise.",
+      "image": "https://placehold.co/400x300?text=Running+Shoes",
+      "stock": 30,
+      "rating": 4.7
+    },
+    {
+      "id": "4",
+      "name": "Backpack",
+      "category": "Accessories",
+      "price": 1499,
+      "description": "A durable backpack with multiple compartments for books, laptops, and travel essentials.",
+      "image": "https://placehold.co/400x300?text=Backpack",
+      "stock": 40,
+      "rating": 4.2
+    },
+    {
+      "id": "5",
+      "name": "Mechanical Keyboard",
+      "category": "Computer Accessories",
+      "price": 2799,
+      "description": "A mechanical keyboard with tactile switches, RGB lighting, and a durable design.",
+      "image": "https://placehold.co/400x300?text=Keyboard",
+      "stock": 15,
+      "rating": 4.6
+    }
+  ]
+}
